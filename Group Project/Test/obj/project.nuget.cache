@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7Pc0LneQM7sa3IIlxN0T/VMYLYD5TJSPXa+aPyRR/Nfla44l4z3Dtilwaq0R5SJ3Rgo65uVgUv8uWq73vbIhA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\HP 450 G7\\source\\repos\\Group Project\\Test\\Test.vbproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project LoginForm is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project LoginForm supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "LoginForm",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

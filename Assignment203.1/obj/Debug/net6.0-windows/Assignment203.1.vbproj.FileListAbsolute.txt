@@ -1,0 +1,16 @@
+C:\Users\HP 450 G7\source\repos\Assignment203.1\bin\Debug\net6.0-windows\Assignment203.1.exe
+C:\Users\HP 450 G7\source\repos\Assignment203.1\bin\Debug\net6.0-windows\Assignment203.1.deps.json
+C:\Users\HP 450 G7\source\repos\Assignment203.1\bin\Debug\net6.0-windows\Assignment203.1.runtimeconfig.json
+C:\Users\HP 450 G7\source\repos\Assignment203.1\bin\Debug\net6.0-windows\Assignment203.1.dll
+C:\Users\HP 450 G7\source\repos\Assignment203.1\bin\Debug\net6.0-windows\Assignment203.1.pdb
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\Assignment203._1.Form1.resources
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\Assignment203.1.vbproj.GenerateResource.cache
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\Assignment203.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\Assignment203.1.AssemblyInfoInputs.cache
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\Assignment203.1.AssemblyInfo.vb
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\Assignment203.1.vbproj.CoreCompileInputs.cache
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\Assignment203.1.dll
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\refint\Assignment203.1.dll
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\Assignment203.1.pdb
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\Assignment203.1.genruntimeconfig.cache
+C:\Users\HP 450 G7\source\repos\Assignment203.1\obj\Debug\net6.0-windows\ref\Assignment203.1.dll

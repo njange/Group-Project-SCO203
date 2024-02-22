@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-10-28T13:28:52.2232959Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-10-28T13:28:51.8669908Z"
+    }
+  },
+  "parameters": {}
+}

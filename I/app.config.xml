@@ -1,0 +1,4 @@
+﻿<connectionStrings>
+	<add name="MyConnectionString" connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\MyDatabase.sql;Integrated Security=True" />
+</connectionStrings>
+
